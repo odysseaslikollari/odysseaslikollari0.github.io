@@ -11,3 +11,5 @@ byte3: players
 byte4: the_triwizard_cup_is_yours_watch_out_for_the_horntail
 
 byte5: sdi2600105_1792786516_909307252_176_92_59_61_54541_22
+
+byte6: unzip_whenever_you_feel_a_little_compressed
