@@ -15,3 +15,5 @@ byte5: sdi2600105_1792786516_909307252_176_92_59_61_54541_22
 byte6: unzip_whenever_you_feel_a_little_compressed
 
 byte7: tar_jokes_wont_stick
+
+byte8:there_s_more_than_what_meets_the_eye
